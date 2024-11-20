@@ -1,1 +1,1 @@
-<h1 align="center"><img align="center" src="/assets/Greeting_cardx4.png" alt="Hello there !" /></h1>
+<h1 align="center"><img align="center" src="/assets/greeting_cardx4.png" alt="Hello there !" /></h1>
